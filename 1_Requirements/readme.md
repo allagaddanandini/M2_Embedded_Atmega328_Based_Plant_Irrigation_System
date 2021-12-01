@@ -1,15 +1,15 @@
 
 # Identifying Features
 
--  Easy installation.
+--  Easy installation.
 
-- Low maintenance.
+-- Low maintenance.
 
-- Compact elegant design.
+-- Compact elegant design.
 
-- Fully automatic, saves man power.
+-- Fully automatic, saves man power.
 
-- Consume very little energy, ideal for continuous operation.
+-- Consume very little energy, ideal for continuous operation.
 
 # State of art/Research
 
@@ -21,93 +21,93 @@
 
 # Strength
 
-- Highly sensitive, low cost and reliable circuit.
+-- Highly sensitive, low cost and reliable circuit.
 
-- Complete elimination of manpower.
+-- Complete elimination of manpower.
 
-- Fully automated irrigation system which will turn ON and OFF a water pump as per the level of moisture in soil.
+-- Fully automated irrigation system which will turn ON and OFF a water pump as per the level of moisture in soil.
 
-- Highly sensitive, low cost and reliable circuit.
+-- Highly sensitive, low cost and reliable circuit.
 
-- Can be handle heavy loads.
+-- Can be handle heavy loads.
 
 # Weakness
 
-- This is applicable for only large frames.
+-- This is applicable for only large frames.
 
-- Have limited life after installation due to the detoriation of the plastic component in a hot, arid climate when exposed to ultraviolet light.
+-- Have limited life after installation due to the detoriation of the plastic component in a hot, arid climate when exposed to ultraviolet light.
 
-- The rust, foul and deteriorate
+-- The rust, foul and deteriorate
 
 # Opportunities
 
-- There are huge opportunities in the local market since these types of automations are not yet penetrated to the villages and rural markets.
+-- There are huge opportunities in the local market since these types of automations are not yet penetrated to the villages and rural markets.
 
-- Agriculture still uses conventional methods for many cases so that a huge opportunities are still awaiting in rural India.
+-- Agriculture still uses conventional methods for many cases so that a huge opportunities are still awaiting in rural India.
 
 # Thearts
 
-- New automatic systems are to be introduced to the market which may have better options.
+-- New automatic systems are to be introduced to the market which may have better options.
 
-- cheap complementary products may enter to the market.
+-- cheap complementary products may enter to the market.
 
 
 # 4W's and 1H
 
 # Who
 
-- allagaddanandini try to implement to problem statement.
+-- allagaddanandini try to implement to problem statement.
 
-- can be access by the Gardeners,farmers and interested in home roof gardeners.
+-- can be access by the Gardeners,farmers and interested in home roof gardeners.
 
 # What
 
-- Implementation of Automatic  Plant Irrigation System. 
+-- Implementation of Automatic  Plant Irrigation System. 
 
 # Where
 
-- Agriculture  Irrigation System.
+-- Agriculture  Irrigation System.
 
-- Irrigation In Fields.
+-- Irrigation In Fields.
 
-- Irrgation In gardens and parks.
+-- Irrgation In gardens and parks.
 
-- Very Efficient For Paddy, Rice Fields.
+-- Very Efficient For Paddy, Rice Fields.
 
-- Picsiculture.
+-- Picsiculture.
 
 # When
 
-- At any time it can be used if neccesary after bulid the circuit.
+-- At any time it can be used if neccesary after bulid the circuit.
 
 # How
 
-- This application is implemented using C programing language.
+-- This application is implemented using C programing language.
 
 # High level requirements
 
-- Automatically adjusts water levels.
+-- Automatically adjusts water levels.
 
-- Save money by using less electricity and water.
+-- Save money by using less electricity and water.
 
-- Automatic operation saves you manual labor time.
+-- Automatic operation saves you manual labor time.
 
-- The system is automatically monitored and controls the pump on and off.
+-- The system is automatically monitored and controls the pump on and off.
 
-- The system used provides us with the readings of the temperature of the atmosphere along with the humidity content of soil.
+-- The system used provides us with the readings of the temperature of the atmosphere along with the humidity content of soil.
 
-- Consumes a small amount little energy, perfect for on-going operations.
+-- Consumes a small amount little energy, perfect for on-going operations.
 
 # Low level requirements
 
-- Can't loaded more than the system specifications.
+-- Can't loaded more than the system specifications.
 
-- The system will be operated in night also which results in minimization of the water loss due to evaporation.
+-- The system will be operated in night also which results in minimization of the water loss due to evaporation.
 
-- Irrigation process starts and stops exactly when required, thus optimizing energy requirements.
+-- Irrigation process starts and stops exactly when required, thus optimizing energy requirements.
 
 
 
-.
+
 
 
