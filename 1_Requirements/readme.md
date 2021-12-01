@@ -1,7 +1,6 @@
-
 # Identifying Features
 
---  Easy installation.
+-- Easy installation.
 
 -- Low maintenance.
 
@@ -11,7 +10,7 @@
 
 -- Consume very little energy, ideal for continuous operation.
 
-# State of art/Research
+ State of art/Research
 
 [Electerioncsforu](https://www.electronicsforu.com/electronics-projects/hardware-diy/automatic-plant-watering-system)
 
@@ -19,7 +18,7 @@
 
 # SWOT ANALYSIS
 
-# Strength
+ Strength
 
 -- Highly sensitive, low cost and reliable circuit.
 
@@ -27,11 +26,11 @@
 
 -- Fully automated irrigation system which will turn ON and OFF a water pump as per the level of moisture in soil.
 
--- Highly sensitive, low cost and reliable circuit.
+--   Highly sensitive,low cost and reliable circuit.
 
 -- Can be handle heavy loads.
 
-# Weakness
+ Weakness
 
 -- This is applicable for only large frames.
 
@@ -54,7 +53,7 @@
 
 # 4W's and 1H
 
-# Who
+ Who
 
 -- allagaddanandini try to implement to problem statement.
 
